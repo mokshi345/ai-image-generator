@@ -65,4 +65,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### ` Try roseyai  an ai image generator link https://roseyai.netlify.app '
+### ` Try roseyai  an ai image generator  https://roseyai.netlify.app '
